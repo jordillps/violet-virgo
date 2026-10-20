@@ -1,0 +1,5 @@
+Arrencar Servidor
+npm run dev
+
+Para Servidor
+crtl + C
